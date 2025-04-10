@@ -1,40 +1,19 @@
 ---
 layout: post
-title: "Karate for Beginners: My Journey So Far"
+title: "My Karate Journey"
 date: 2025-04-10 12:00:00 +0530
 categories: [Karate, Beginner]
-tags: [karate, martial-arts, student life]
+tags: [karate, martial-arts, beginner]
 ---
 
 🥋 **Welcome to my karate blog!**
 
-As a student who recently started learning karate, I wanted to document my experience, share tips, and connect with others like me.
+This is where I document my journey into the world of karate as a beginner. Stay tuned for posts on techniques, tips, and everything I learn along the way.
 
 ---
 
-## 👊 Why I Chose Karate
+## 👊 First Lesson: The Basics
 
-- It's a great way to stay fit
-- It teaches discipline and focus
-- It’s fun and powerful!
-
----
-
-## 🥋 What I’ve Learned So Far
-
-- Basic punches (Oi-zuki, Gyaku-zuki)
-- Front kick (Mae Geri)
-- Karate stance (Zenkutsu Dachi)
-- Respect and etiquette
-
----
-
-## ✅ Tips for Beginners
-
-- Practice daily—even 15 mins helps!
-- Focus on form, not power
-- Stretch before and after every session
-
----
-
-💬 Let me know what you’re learning or struggling with in the comments!
+- Punches, kicks, and stances
+- The importance of focus
+- Discipline in training

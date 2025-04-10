@@ -227,25 +227,12 @@ jekyll-archives:
 
 title: KarateKickStart
 tagline: A Student’s Karate Journey 🥋
-description: A blog documenting my beginner journey in karate and martial arts.
-url: "https://yourusername.github.io"
+description: A blog documenting my journey as a beginner in karate and martial arts.
+url: "https://preetam-vignesh.github.io"
 baseurl: ""
 
 author:
-  name: Your Name
+  name: Preetam Vignesh
   bio: Student. Karate Beginner. Sharing my journey.
-  email: your-email@example.com
-
-social:
-  github: yourusername
-  instagram: karate.student
-  email: your-email@example.com
 
 theme: jekyll-theme-chirpy
-lang: en
-timezone: Asia/Kolkata
-paginate: 10
-
-markdown: kramdown
-highlighter: rouge
-
